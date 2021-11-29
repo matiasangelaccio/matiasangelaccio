@@ -22,6 +22,6 @@ Things I code with:
 
 ###Where to find me
 
-<code><img height="40" src="https://www.linkedin.com/in/matias-angelaccio-a778321ab/"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/b5f5e71039262b1bbab3d6f1a16377dda0c5513c9b8a4a32da1ae912c2445500/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></code>
 
 
